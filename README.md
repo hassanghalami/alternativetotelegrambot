@@ -1,2 +1,2 @@
-Alternativeto.net Telegram Bot
+a Graber for Alternativeto.net Telegram Bot
 
